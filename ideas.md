@@ -1,3 +1,5 @@
 Los jugadores no van a usar su propio celular, sino que el dueño el dia anterior se confundio y enves de llevarse su telefono se llevo el de la empresa, entonces el dueño se va a comunicar con los jugadores por el celular del dueño, y el dueño se va a comunicar con el telefono de la empresa.
 
 En el celular no solo van a llegar notificaciones del dueño, sino tambien de su psicologo o de un filosofo amigo. Si es un psicologo podria enviar mensajes para ayudar a resolver todo mas directo, puede ser preguntando cosas. y si es un filosofo podria ser que el filosofo le envie mensajes con frases que no sean tan directos, pero tengan que pensar que quiere decir con ese mensaje.
+
+Los tecnicos llegas en la madrugada, o en cualquier horario antes que la empresa abra.
